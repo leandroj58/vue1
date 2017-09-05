@@ -1,4 +1,4 @@
-<template lang="pug">
+<template lang="jade">
 li.artist
     h2
         a(:href="artist.url" target="_blanck") {{ artist.name }}
